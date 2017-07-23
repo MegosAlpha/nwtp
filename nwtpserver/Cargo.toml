@@ -1,0 +1,6 @@
+[package]
+name = "nwtpserver"
+version = "0.1.0"
+authors = ["MegosAlpha <noahwalker3509@gmail.com>"]
+
+[dependencies]
